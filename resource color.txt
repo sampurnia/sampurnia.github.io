@@ -1,0 +1,3 @@
+background original #0563bb
+background repplace 1 #d38900
+background repplace 2 #eba930
